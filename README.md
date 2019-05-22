@@ -1,2 +1,2 @@
 # HelloWorld
-It's My first Gihub_Work
+It's my first gihub_work
